@@ -13,7 +13,7 @@ Before you begin, ensure you have met the following requirements:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/nabilulilalbab/portfolio.git
+git clone https://github.com/nurkholismajid/portfolio.git
 cd project-name
 ```
 
